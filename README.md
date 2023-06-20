@@ -19,4 +19,4 @@ How to run
 npx cypress open
 ```
 
-Link test case and recorded running program :
+Link test case and recorded running program : https://drive.google.com/file/d/105Tg5B_CtlmlaKv9WTKzSW5zu8EJzVH-/view?usp=sharing
